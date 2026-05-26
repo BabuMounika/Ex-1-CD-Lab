@@ -68,13 +68,13 @@ int main()
 # OUTPUT
 ## Symbol found
 
+<img width="755" height="547" alt="image" src="https://github.com/user-attachments/assets/5f51cd12-d2f8-40df-95a9-c4c3d6821c41" />
 
-<img width="558" height="312" alt="image" src="https://github.com/user-attachments/assets/a38288d3-eeb9-44be-9281-7fbf917f7ffd" />
 
 
 ## Symbol not found
 
-<img width="518" height="302" alt="image" src="https://github.com/user-attachments/assets/7c283213-f5f6-4162-8239-18eba4546637" />
+<img width="876" height="519" alt="image" src="https://github.com/user-attachments/assets/ea63a2d2-de44-4c4c-9db4-3829c0a4ca06" />
 
 # RESULT
  The program to implement a symbol table is executed and the output is verified.
